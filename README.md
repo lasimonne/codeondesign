@@ -29,6 +29,7 @@ Codeondesign code snippets
 .stroke
     width: 30px
     height: 6px
+    display: block
     background-color: $main-color
     margin: 0 0 6px 0
 
