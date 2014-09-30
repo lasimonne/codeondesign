@@ -1,4 +1,4 @@
-_Codeondesign code snippet_
+Codeondesign code snippets
 ============
 
 ### Menu animations
@@ -12,7 +12,7 @@ _Codeondesign code snippet_
     <span class="stroke str_3"></span>
 </div>
 ```
-### [Sass]() + [Bourbon]()
+### [Sass](http://sass-lang.com/) + [Bourbon](http://bourbon.io/)
 ``` sass
 .toggle-menu
   +size(30px)
