@@ -39,4 +39,4 @@ Codeondesign code snippets
 
 ```
     
-###2. Next
+###2. Coming soon!
