@@ -31,8 +31,7 @@ Codeondesign code snippets
     height: 6px
     background-color: $main-color
     margin: 0 0 6px 0
-    +position(relative, 0 0 0 10px)
-  
+
 +keyframes (animate-str)
     to
         width: 0
