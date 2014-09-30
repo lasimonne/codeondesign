@@ -3,7 +3,7 @@ Codeondesign code snippets
 
 ###1. Menu animations
     
-*### HTML
+#### HTML
 ```html
 
 <div class="toggle-menu">
@@ -12,7 +12,7 @@ Codeondesign code snippets
     <span class="stroke str_3"></span>
 </div>
 ```
-*### [Sass](http://sass-lang.com/) + [Bourbon](http://bourbon.io/)
+#### [Sass](http://sass-lang.com/) + [Bourbon](http://bourbon.io/)
 ``` sass
 .toggle-menu
     +size(30px)
