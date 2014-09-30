@@ -1,7 +1,7 @@
 Codeondesign code snippets
 ============
 
-1. ### Menu animations
+###1. Menu animations
     
     ### HTML
     ```html
@@ -38,4 +38,5 @@ Codeondesign code snippets
             width: 0
     
     ```
-2. ### Next
+    
+###2. Next
