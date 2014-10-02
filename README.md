@@ -16,6 +16,8 @@ Codeondesign code snippets
 ``` sass
 .toggle-menu
     +size(30px)
+    border: 1px solid $main-color
+    +border-radius(50%)
     +position(absolute, 20px 0 0 20px)
     cursor: pointer
     z-index: 9999
