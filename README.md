@@ -21,6 +21,8 @@ Codeondesign code snippets
     +position(absolute, 20px 0 0 20px)
     cursor: pointer
     z-index: 9999
+    &:hover
+        +transform(rotate(-90deg))
     &:hover .str_1
         +animation(animate-str 1000ms ease-in-out infinite alternate)
     &:hover .str_2
